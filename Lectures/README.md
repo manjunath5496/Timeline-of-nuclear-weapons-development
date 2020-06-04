@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Principles of Microeconomics</a></li>
+<li><a href="#course1">Introduction to Modeling and Simulation</a></li>
 <li><a href="#course2">Principles of Macroeconomics</a></li>
 <li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
@@ -53,4 +53,4 @@
    <li><a href="#course52">Development Economics: Microeconomic Issues and Policy Models</a></li>
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Principles of Microeconomics</h2>
+<h2 id="course1">Introduction to Modeling and Simulation</h2>
