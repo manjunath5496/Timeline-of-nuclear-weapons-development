@@ -12,7 +12,7 @@
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
-<li><a href="#course14">Industrial Organization and Public Policy</a></li>
+<li><a href="#course14">Materials in Nuclear Engineering</a></li>
 <li><a href="#course15">Government Regulation of Industry</a></li>
 <li><a href="#course16">Economics and E-Commerce</a></li>
 <li><a href="#course17">Competition in Telecommunications</a></li>
@@ -1466,4 +1466,77 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course14">Materials in Nuclear Engineering</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">THEMES</th>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><em>Overview</em></td>
+<td>Survey of Material Selection in Nuclear Systems</td>
+<td><span class="nobr"><a href="MIT22_14S15_Lecture1.pdf">Lecture 1 Nuclear Materials Overview (PDF - 4.4MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td rowspan="2"><em>The Language of Materials Science</em><br />&nbsp;</td>
+<td>Symmetry, Miller Indices</td>
+<td rowspan="2"><a href="MIT22_14S15_Lecture2.pdf">Lecture 2 Symmetry and Structure (PDF - 2.2MB)</a><br />&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Crystal Structures, Bravais Lattices, Space Groups</td>
+</tr>
+<tr class="row">
+<td rowspan="2"><em>Thermodynamics</em><br />&nbsp;</td>
+<td>Phase Diagrams, Phase Transformations</td>
+<td rowspan="2"><a href="MIT22_14S15_Lecture3.pdf">Lecture 3 Binary Phase Diagrams (PDF - 1.2MB)</a><br />&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Free Energy Origins of Phase Diagrams</td>
+</tr>
+<tr class="alt-row">
+<td rowspan="3"><em>Material Deformation and Failure</em></td>
+<td>Free Energy (cont.), Point Defects</td>
+<td rowspan="3"><span class="nobr"><a href="MIT22_14S15_Lecture4.pdf">Lecture 4 Defects and Deformation in Crystals (PDF - 19.9MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>Dislocations, 2D &amp; 3D Defects</td>
+</tr>
+<tr class="alt-row">
+<td>Stress, Strain, Plasticity, Creep, Fracture, Failure</td>
+</tr>
+<tr class="row">
+<td rowspan="4"><em>Radiation Damage and Effects</em></td>
+<td>Stopping Power, Radiation Damage, DPA</td>
+<td rowspan="2"><span class="nobr"><a href="MIT22_14S15_Lecture5.pdf">Lecture 5 Radiation Damage Mechanisms and Rates (PDF - 6.9MB)</a></span></td>
+</tr>
+<tr class="row">
+<td>Displacement Rates, Radiation Point Defect Kinetics</td>
+</tr>
+<tr class="row">
+<td>Radiation Effects in Materials, Fuels</td>
+<td rowspan="2"><a href="MIT22_14S15_Lecture6.pdf">Lecture 6 Radiation Effects in Materials (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td>Recap Nuclear Material Choices in Systems</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+<p><a href="MIT22_14S15_Pset1.pdf">Problem Set 1: Review Paper (PDF)</a></p>
+<p><a href="MIT22_14S15_Pset2.pdf">Problem Set 2: The Language of Materials Science (PDF)</a></p>
+<p><a href="MIT22_14S15_Pset3.pdf">Problem Set 3: Equilibrium Thermodynamics (PDF)</a><br /><a href="MIT22_14S15_Pset3Sol.pdf">Problem Set 3 Solutions (PDF)</a></p>
+<p><a href="MIT22_14S15_PS4-Oral_1.pdf">Oral Exam 1 (PDF)</a><br /><a href="MIT22_14S15_PS4-Oral_2.pdf">Oral Exam 2 (PDF)</a></p>
+<p><a href="MIT22_14S15_Pset4.pdf">Problem Set 4: Radiation Damage (PDF)<br /></a><a href="MIT22_14S15_Pset4PaprForQ3.pdf">Problem Set 4 Reading for Question 3 (PDF - 1.3MB)</a><br /><a href="MIT22_14S15_Pset4Sol.pdf">Problem Set 4 Solutions (PDF)</a></p>
+<p><a href="MIT22_14S15_Final-Exam.pdf">Practice Final Exam (PDF)</a></p>
+
+</br>
+
 
