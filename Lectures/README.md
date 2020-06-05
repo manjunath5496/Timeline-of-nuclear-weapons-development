@@ -463,24 +463,11 @@
 </td>
 </tr>
 <tr class="alt-row">
-<td>Transport Equation</td>
-<td>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></td>
-</tr>
-<tr class="row">
-<td>Criticality / Flux / Current / BCs</td>
-<td>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></td>
-</tr>
-<tr class="alt-row">
 <td>Kinetics Approximation</td>
 <td>
-<p>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></p>
 <p>Chapter 5 [EEL]</p>
 <p>(<a href="MIT22_05F09_lec05.pdf">PDF</a>)</p>
 </td>
-</tr>
-<tr class="row">
-<td>Diffusion &ndash; Two Groups</td>
-<td>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></td>
 </tr>
 <tr class="alt-row">
 <td>Energy Transport</td>
