@@ -396,3 +396,38 @@
 <p>Verma, A. "Assessment of Heat Exchangers for Coupling a High Temperature Nuclear Reactor to Hydrogen and Biofuels Plants." (<a href="MIT22_033F11_asn_journal1a.pdf">PDF</a>)</p>
 <p>Sutherland, D. A. "Letter to the Editors on the Feasibility of Thermochemical and Bacterial Hydrogen Production Methods for Nuclear Systems." (<a href="MIT22_033F11_asn_journal1b.pdf">PDF</a>)</p>
 </br>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">RESOURCES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td>
+<p>Presentation techniques</p>
+<p>Group time, integrator progress reports</p>
+</td>
+<td>
+<p>&nbsp;</p>
+<p>Slides (<a href="MIT22_033F11_lec05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Engineering leadership &amp; leadership styles</td>
+<td>
+<p>Slides (<a href="MIT22_033F11_rec04.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Integrating block diagram models in EES</td>
+<td>
+<p>Slides (<a href="MIT22_033F11_rec10.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
