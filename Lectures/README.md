@@ -14,7 +14,7 @@
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
-<li><a href="#course16">Economics and E-Commerce</a></li>
+<li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
 <li><a href="#course17">Competition in Telecommunications</a></li>
 <li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
 <li><a href="#course19">Public Finance and Public Policy</a></li>
@@ -1650,6 +1650,51 @@
 <td>
 <p><a href="MIT22_312F15_final_2008Sol.pdf">2008 Final Exam Solutions (PDF)</a></p>
 </td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<h2 id="course16">Thermal Hydraulics in Power Technology</h2>
+
+<h2 class="subhead">Practice Exams</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Practice mid-term (<a href="practice_quiz.pdf">PDF</a>)</td>
+<td>(<a href="prac_quiz_solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice final (<a href="practice_final.pdf">PDF</a>)</td>
+<td>(<a href="prac_final_solns.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Exams</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Mid-term quiz (<a href="midterm.pdf">PDF</a>)</td>
+<td>(<a href="midterm_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam (<a href="final_exam.pdf">PDF</a>)</td>
+<td>(<a href="final_exam_soln.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
