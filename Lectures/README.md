@@ -20,7 +20,7 @@
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
-<li><a href="#course22">Economics of Education</a></li>
+<li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Information Technology and the Labor Market</a></li>
 <li><a href="#course24">Labor Economics and Public Policy</a></li>
 <li><a href="#course25">The Challenge of World Poverty</a></li>
@@ -2299,3 +2299,79 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Principles of Radiation Interactions</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Course Intro/Cells and Tissues Overview</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Radiation Interactions&nbsp;(<a href="2/energy_depos_hcp.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Radiation Interactions (cont.) (<a href="2/ener_depo_neutro.pdf">PDF 1</a>) (<a href="2/ener_depo_photon.pdf">PDF 2</a>) (<a href="2/energ_depos_elec.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Radiation Chemistry/LET/Tracks (<a href="2/raditn_chemistry.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Effects on Chromosomes/DNA (<a href="2/ef_of_rad_chromos.pdf">PDF 1</a>) (<a href="2/ef_of_rad_on_dna.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Dose Response in Vitro: Cell Survival Curves (<a href="2/cel_surv_curves.pdf">PDF 1</a>) (<a href="2/dos_calculations.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">RBE/Clustered Damage (<a href="2/cluster_damage.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Protons and Alphas of same LET (<a href="2/alph_proto_of_let.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Dose Response in Vivo (<a href="2/vivdos_resp_asay.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Chemical Modification of Radiation Response (<a href="2/chem_mod_rad_res.pdf">PDF 1</a>) (<a href="2/modif_rad_respns.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Cell, Tissue and Tumor Kinetics (<a href="2/cel_tisu_tumr_kin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exam 1</td>
+</tr>
+<tr class="row">
+<td headers="col2">Radiation Therapy: Tumor Radiobiology (<a href="2/radiaton_therapy.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Radiation Therapy (contd.): Fractionation (<a href="2/radiaton_therapy.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Acute Effects of Whole Body Exposure (<a href="2/intro_absorb_dos.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Late Effects: Chronic Exposure/Low Doses (<a href="2/helth_ef_chronic.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Radiation Protection/Background Radiation/Radon (<a href="2/bakgrnd_radiaton.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Alpha Particles/Bystander Effect (<a href="2/alph_n_bystand.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Microbeams (<a href="2/microbeams.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">RBE of Diagnostic X Rays</td>
+</tr>
+<tr class="row">
+<td headers="col2">BNCT/Other Modalities (<a href="2/bnct_lect_so4.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
