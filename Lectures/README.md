@@ -5,7 +5,7 @@
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
-<li><a href="#course7">Financial Crises</a></li>
+<li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
 <li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
 <li><a href="#course10">Economic Applications of Game Theory</a></li>
@@ -567,5 +567,96 @@
 </br>
 <p>Exam 1 (<a href="exam1.pdf">PDF</a>)<br />Exam 1 Solution (<a href="exam1solution.pdf">PDF</a>)</p>
 </br>
+<h2 id="course7">Engineering of Nuclear Systems</h2>
 
+
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Course Introduction</p>
+<p>Nuclear Power Overview</p>
+</td>
+<td><span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT22_06F10_lec01.pdf">PDF - 6.5MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Thermal Parameters + Conservation Equations</td>
+<td>(<a href="MIT22_06F10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>PWR and BWR Description</td>
+<td>
+<p><span class="nobr">(<a href="MIT22_06F10_lec06a.pdf">PDF - 2.1MB</a>)</span></p>
+<p><span class="nobr">(<a href="MIT22_06F10_lec06b.pdf">PDF - 6.5MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Other Reactor Designs (Heavy Water, Gas, Liquid Metal)</td>
+<td><span class="nobr">(<a href="MIT22_06F10_lec07.pdf">PDF - 3.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Pure Substance Model</p>
+<p>Two-Phase Coolant Flow (Parameters)</p>
+</td>
+<td><span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT22_06F10_lec13.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Nuclear Safety (Pillars + Thermal Limits + Protection System + ECCS + Severe Accidents + Containment)</td>
+<td><span class="nobr">(<a href="MIT22_06F10_lec18.pdf">PDF - 2.5MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Dynamic Behavior of PWR</td>
+<td>(<a href="MIT22_06F10_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dynamic Behavior of BWR</td>
+<td>(<a href="MIT22_06F10_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Advanced LWRs</td>
+<td><span class="nobr">(<a href="MIT22_06F10_lec24.pdf">PDF - 3.0MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Mid-term quiz questions</p>
+<p>Mid-term quiz solutions</p>
+</td>
+<td>
+<p>(<a href="MIT22_06F10_quiz.pdf">PDF</a>)</p>
+<p>(<a href="MIT22_06F10_quizsoln.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Final exam questions</p>
+<p>Final exam solutions</p>
+</td>
+<td>
+<p>(<a href="MIT22_06F10_exam.pdf">PDF</a>)</p>
+<p>(<a href="MIT22_06F10_examsoln.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
