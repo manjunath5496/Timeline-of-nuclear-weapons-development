@@ -372,10 +372,7 @@
 <td>Fusion</td>
 <td>&nbsp;</td>
 </tr>
-<tr class="row">
-<td>Fission</td>
-<td>&nbsp;</td>
-</tr>
+
 </tbody>
 </table>
 
