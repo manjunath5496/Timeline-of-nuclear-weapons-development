@@ -24,33 +24,14 @@
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
-<li><a href="#course26">Foundations of Development Policy</a></li>
+<li><a href="#course26">Plasma Transport Theory</a></li>
 <li><a href="#course27">Political Economy and Economic Development</a></li>
 <li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
  <li><a href="#course29">Microeconomic Theory I</a></li> 
   <li><a href="#course30">Microeconomic Theory III</a></li>
    <li><a href="#course31">Game Theory</a></li> 
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
-  <li><a href="#course33">Dynamic Optimization and Economic Applications (Recursive Methods)</a></li> 
-   <li><a href="#course34">Advanced Contract Theory</a></li> 
-    <li><a href="#course35">Statistical Method in Economics</a></li>
-  <li><a href="#course36">Time Series Analysis</a></li> 
-   <li><a href="#course37">Nonlinear Econometric Analysis</a></li> 
-   <li><a href="#course38">Dynamic Optimization Methods with Applications</a></li> 
- <li><a href="#course39">Macroeconomic Theory I</a></li>
-  <li><a href="#course40">Economic Growth</a></li>
-   <li><a href="#course41">Macroeconomic Theory II</a></li>
-    <li><a href="#course42">Macroeconomic Theory III</a></li>
- <li><a href="#course43">Economic Crises</a></li>
-  <li><a href="#course44">Advanced Macroeconomics II</a></li>
-   <li><a href="#course45">Public Economics I</a></li>
-    <li><a href="#course46">Public Economics II</a></li>
-     <li><a href="#course47">International Economics I</a></li>
-    <li><a href="#course48">Labor Economics I</a></li>
-  <li><a href="#course49">Labor Economics II</a></li>
-   <li><a href="#course50">Economic History</a></li>
-  <li><a href="#course51">Development Economics: Macroeconomics</a></li>
-   <li><a href="#course52">Development Economics: Microeconomic Issues and Policy Models</a></li>
+
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Nuclear Engineering and Ionizing Radiation</h2>
@@ -2610,4 +2591,8 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course26">Plasma Transport Theory</h2>
+<p>(1) Collisions and Transport Theory I (<a href="collisionstrans1.pdf">PDF</a>)<br />(2) Collisions and Transport Theory II: Electrical Conductivity - Spitzer Problem (<a href="collisionstrans2.pdf">PDF</a>)</p>
+</br>
+<p>Take Home Final Exam (<a href="3/finalexam.pdf">PDF</a>)</p>
+</br>
