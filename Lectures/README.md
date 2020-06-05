@@ -19,7 +19,7 @@
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
-<li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
+<li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Economics of Education</a></li>
 <li><a href="#course23">Information Technology and the Labor Market</a></li>
 <li><a href="#course24">Labor Economics and Public Policy</a></li>
@@ -2211,5 +2211,91 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Quantum Theory of Radiation Interactions</h2>
 
 
+
+<p><a href="2/MIT22_51F12_Notes.pdf">Quantum Theory of Radiation Interactions (PDF - 2.1MB)</a></p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT22_51F12_Ch1.pdf">Introduction to the course (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_Ch2.pdf">Mathematical formalism of quantum mechanics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT22_51F12_Ch3.pdf">Axioms of quantum mechanics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_Ch4.pdf">Two-level systems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT22_51F12_Ch5.pdf">Time evolution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_Ch6.pdf">Composite systems and entanglement (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT22_51F12_Ch7.pdf">Mixed states (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_Ch8.pdf">Open quantum systems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT22_51F12_Ch9.pdf">Harmonic oscillator (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_Ch10.pdf">The electromagnetic field (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT22_51F12_Ch11.pdf">Perturbation theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_Ch12.pdf">Interaction of radiation with matter (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="2/MIT22_51F12_axioms.pdf">Axioms of quantum mechanics (PDF)</a></p>
+<h2 class="subhead">&nbsp;</h2>
+<p><a href="2/MIT22_51F12_intro.pdf">Introductory lecture (PDF - 1.8MB)</a></p>
+<p><a href="2/MIT22_51F12_epr_bell.pdf">EPR paradox, Bell inequalities (PDF - 2.0MB)</a></p>
+<p><a href="2/MIT22_51F12_quant_em.pdf">Quantization of the electromagnetic field (PDF - 2.7MB)</a></p>
+<p><a href="2/MIT22_51F12_neutron.pdf">Neutron scattering (PDF - 3.8MB)</a></p>
+
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">MIDTERM&nbsp;EXAMS</th>
+<th scope="col">FINAL&nbsp;EXAMS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT22_51F12_mid_2012.pdf">2012 midterm (PDF)</a></td>
+<td><a href="2/MIT22_51F12_final_2012.pdf">2012 final (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_mid_2011.pdf">2011 midterm (PDF)</a></td>
+<td><a href="2/MIT22_51F12_final_2011.pdf">2011 final (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT22_51F12_mid_2010.pdf">2010 midterm (PDF)</a></td>
+<td><a href="2/MIT22_51F12_final_2010.pdf">2010 final (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT22_51F12_mid_2009.pdf">2009 midterm (PDF)</a></td>
+<td><a href="2/MIT22_51F12_final_2009.pdf">2009 final (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
