@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Introduction to Modeling and Simulation</a></li>
+<li><a href="#course1">Introduction to Nuclear Engineering and Ionizing Radiation</a></li>
 <li><a href="#course2">Principles of Macroeconomics</a></li>
 <li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
@@ -53,4 +53,96 @@
    <li><a href="#course52">Development Economics: Microeconomic Issues and Policy Models</a></li>
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Introduction to Modeling and Simulation</h2>
+<h2 id="course1">Introduction to Nuclear Engineering and Ionizing Radiation</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet1.pdf">Problem Set 1: Retracing Chadwick's Discovery of the Neutron (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet1Sol.pdf">Problem set 1 solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet2.pdf">Problem Set 2: Nuclear Structure and Stability (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet2Sol.pdf">Problem set 2 solutions (PDF)</a></p>
+<p><a href="http://www.gnumeric.org/">Gnumeric</a>&nbsp;spreadsheets showing intermediate solutions</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet3.pdf">Problem Set 3: Radioactive Decay and Half Life (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet3Sol.pdf">Problem set 3 solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet4.pdf">Problem Set 4: Successive Decays and Statistics (PDF)</a></p>
+<p><a href="ps4_banana_data.zip">Banana Data: Counting Activity, Background, and Efficiency (ZIP)</a>&nbsp;(This Zip file contains: 6 .pdf files.)</p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet4Sol.pdf">Problem set 4 solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet5.pdf">Problem Set 5: Photon Interactions with Matter (PDF)</a></p>
+<p><a href="ps5_NAA.xls">List of Nuclear Activation Analysis (NAA) Elements (XLS)</a></p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet5Sol.pdf">Problem set 5 solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet6.pdf">Problem Set 6: Electron and Ion Interactions with Matter (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet6Sol.pdf">Problem set 6 solutions (PDF - 1.0MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet7.pdf">Problem Set 7: Neutrons, Transport, and Criticality (PDF)</a></p>
+<p><a href="ps7_files.zip">Problem Set 7 (ZIP)</a>&nbsp;(This Zip file contains: 2 .pdf files, 1 .xlsx file, 5 .png files.)</p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet7Sol.pdf">Problem set 7 solutions (PDF)</a></p>
+<p><a href="ps7_sol_WillItBlend-Calcs.xlsx">Excel Calculations for "Will It Blend?"&nbsp;<span class="nobr">(XLSX - 1.1MB)</span></a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet8.pdf">Problem Set 8: Biological and Chemical Effects of Radiation (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT22_01F16_ProblemSet8Sol.pdf">Problem set 8 solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT22_01F16_ProblemSet9.pdf">Problem Set 9: Practice Problems for Final Quiz 3 (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
