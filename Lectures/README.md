@@ -29,7 +29,7 @@
 <li><a href="#course28">Introduction to Sustainable Energy</a></li> 
  <li><a href="#course29">Managing Nuclear Technology</a></li> 
   <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
-   <li><a href="#course31">Game Theory</a></li> 
+   <li><a href="#course31">Nuclear Power Plant Dynamics and Control</a></li> 
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
 
 </ul>
@@ -3226,3 +3226,32 @@
 <li>Lecture 5 (<a href="4/lecture_5.pdf">PDF</a>) - 2-D Imaging and Slice Selection</li>
 </ul>
 </br>
+<h2 id="course31">Nuclear Power Plant Dynamics and Control</h2>
+
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/hw1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/hw1sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/hw2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/hw2sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/hw3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
