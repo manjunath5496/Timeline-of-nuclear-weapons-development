@@ -26,7 +26,7 @@
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
 <li><a href="#course26">Plasma Transport Theory</a></li>
 <li><a href="#course27">Superconducting Magnets</a></li>
-<li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
+<li><a href="#course28">Introduction to Sustainable Energy</a></li> 
  <li><a href="#course29">Microeconomic Theory I</a></li> 
   <li><a href="#course30">Microeconomic Theory III</a></li>
    <li><a href="#course31">Game Theory</a></li> 
@@ -2649,5 +2649,395 @@
 </tbody>
 </table>
 </br>
+<h2 id="course28">Introduction to Sustainable Energy</h2>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+<th scope="col">READINGS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Part I: Energy in context</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Introduction</p>
+<p>- Historical context (the post steam engine evolving growth of the developed countries, superimposed on the growing energy needs of the less-developed countries)</p>
+<p>- Energy sources for a more sustainable future</p>
+</td>
+<td>
+<p>Overview and administration (<a href="3/MIT22_081JF10_lec01a_1.pdf">PDF</a>)</p>
+<p>Energy uses in different countries&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec01a_2.pdf">PDF - 9.4MB</a>)</span></p>
+<p><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec01a_3.pdf">PDF - 8.9MB</a>)</span></p>
+</td>
+<td><span class="nobr">Chapter 1</span></td>
+</tr>
+<tr class="row">
+<td>
+<p>Overview of energy use and related issues</p>
+<p>- Major energy options; issues of supply and demand</p>
+<p>- Overview of units and dimensions for global energy flows (Quads, MMBOE, MW, EJ, etc.); energy conversions (chemical to thermal, chemical to electric, etc.); and economic considerations</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec01b.pdf">PDF - 1.3MB</a>)</span></td>
+<td>Chapter 9</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"Climate Change: Science, Economics, and Policy."</p>
+<p>Global climate change issues and responses</p>
+<p>- Greenhouse gas emissions and potential effects</p>
+<p>- Modeling of atmospheric, oceanic, and terrestrial effects</p>
+<p>- Effects on ecology and biodiversity (local-regional-global)</p>
+<p>- Responses to CO2 build-up</p>
+<p>- Mitigation?</p>
+</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec02.pdf">PDF - 1.8MB</a>)</span></td>
+<td>Sections 4.1-4.3</td>
+</tr>
+<tr class="row">
+<td>
+<p>Toolbox 1: Energy transfer and conversion methods</p>
+<p>- Energy sources and uses</p>
+<p>- Survey of conversion processes</p>
+<p>- Conversion efficiency and rate considerations</p>
+<p>- Conversion case study</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec03a.pdf">PDF</a>)</td>
+<td>Chapter 3</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Drake, Elisabeth. "Energy and Sustainability Issues." 10.391J, January 2007.</p>
+<p>Sustainability, energy, and clean technologies in context</p>
+<p>- Frameworks for evaluation</p>
+<p>- Sustainability attributes</p>
+<p>- Time and space scales</p>
+<p>- Population and consumption growth</p>
+<p>- Tradeoffs and choices</p>
+<p>- Uncertainty</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec03b.pdf">PDF</a>)</td>
+<td><span class="nobr">Sections 6.1, 6.4-6.6</span></td>
+</tr>
+<tr class="row">
+<td>
+<p>Recitation 1: Discussion of sustainability issues</p>
+<p>- Energy footprints</p>
+<p>- Opportunities and barriers; timing issues</p>
+<p>- Drivers of change</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec04a.pdf">PDF</a>)</td>
+<td><span class="nobr">&nbsp;</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Toolbox 2: Resource evaluation and depletion analyses</p>
+<p>- Present energy sources (fossil, nuclear, hydro)</p>
+<p>- Major energy alternatives (solar, geologic, ocean)</p>
+<p>- Resource base &ndash; uncertainties, grade/quality issues, resource vs. reserve estimates, economic evaluation frameworks</p>
+<p>- Other resource constraints that affect sustainability (esp. land, water, labor)</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec04b.pdf">PDF</a>)</td>
+<td>Chapter 2</td>
+</tr>
+<tr class="row">
+<td>
+<p>Toolbox 3: Energy conversion, transmission, and storage</p>
+<p>- Matching supply and demand to minimize losses</p>
+<p>- Energy storage and transmission issues</p>
+<p>- Energy chains and connected efficiencies</p>
+<p>- Storage modes</p>
+<p>- Ragone plot</p>
+<p>- Transmission of fossil fuels and electricity</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec05a.pdf">PDF</a>)</td>
+<td>Chapter 16</td>
+</tr>
+<tr class="alt-row">
+<td>"Wind Power Fundamentals." (contributions from Alex Kalmikov and Kathy Araujo)</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec05b.pdf">PDF - 3.8MB</a>)</span></td>
+<td>Chapter 15</td>
+</tr>
+<tr class="row">
+<td>
+<p>Toolbox 4: Systems analysis methodologies</p>
+<p>- Scoping analysis; simulation models; economic models; life cycle analysis; systems dynamic models; decision models</p>
+<p>- Selecting system boundaries</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec06a.pdf">PDF</a>)</td>
+<td>Section 6.2, 6.3</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Toolbox 5: Energy supply, demand, and storage planning</p>
+<p>- Matching energy density of supply and demand</p>
+<p>- Temporal and geographical distributions</p>
+<p>- Energy transmission and distribution (pipelines, tankers, rail, power lines)</p>
+<p>- Role of energy storage; intermittency; influences of pricing during demand peaks and valleys</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec06b.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>"Changes in the Electric Power Sector."</p>
+<p>The electric power system and requirements for success</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec07a.pdf">PDF - 1.6MB</a>)</span></td>
+<td>Chapter 17</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"New Challenges and Opportunities for the Electric Grid."</p>
+<p>Historical factor and prospects for change in the electric power grid</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec07b.pdf">PDF - 2.2MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Toolbox 6: Electrical systems dynamics</td>
+<td>(<a href="3/MIT22_081JF10_lec08a.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Toolbox 7: Economic feasibility assessment methods</p>
+<p>- Engineering, capital, and investment costs</p>
+<p>- Matching energy density of supply and demand</p>
+<p>- Temporal and geographical distributions</p>
+<p>- Energy transmission and distribution (pipelines, tankers, rail, power lines)</p>
+<p>- Role of energy storage; intermittency; influences of pricing during demand peaks and valleys</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec08b.pdf">PDF</a>)</td>
+<td>Chapter 5</td>
+</tr>
+<tr class="row">
+<td>
+<p>Toolbox 8: Thermodynamics and efficiency calculations</p>
+<p>- First and second laws</p>
+<p>- Availability</p>
+<p>- Power cycles and heat pumps</p>
+<p>- Topping and bottoming cycles</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec09a.pdf">PDF</a>)</td>
+<td>Chapter 3</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"International Climate Change Policy: From Copenhagen to Canc&uacute;n, and Beyond."</p>
+<p>Carbon limitation policy options</p>
+<p>- Cap and trade</p>
+<p>- Carbon tax</p>
+<p>- Command and control</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec09b.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Part II: Specific Energy Technologies</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Nuclear energy I: Basics and current status</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec10.pdf">PDF - 1.8MB</a>)</span></td>
+<td>Chapter 8</td>
+</tr>
+<tr class="row">
+<td>
+<p>Fossil energy I</p>
+<p>- Fuel conversion, power cycles, combined cycles</p>
+<p>- Advanced technologies</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec11a.pdf">PDF</a>)</td>
+<td>Chapter 15</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"The Dominant Piece of the Energy System: Fossil Fuels."</p>
+<p>Fossil energy II</p>
+<p>- Types and characteristics</p>
+<p>- Technologies</p>
+<p>- Associated economics and impacts</p>
+<p>- Fossil fuel switching (synfuels, LNG, carbon sequestration)</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec11b.pdf">PDF - 1.1MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Cape Wind energy and offshore wind projects</td>
+<td>Chapter 7</td>
+</tr>
+<tr class="alt-row">
+<td>Current energy policy</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec12b.pdf">PDF - 3.0MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>"Transport Issues and the Environment in Latin America."</p>
+<p>Transportation in developing countries</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec13a.pdf">PDF - 2.3MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Fossil energy III</p>
+<p>- Alternative transportation fuels</p>
+<p>- Emission performance improvements</p>
+<p>- Connections to new engine technology</p>
+<p>- Cleaner fuel</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec13b.pdf">PDF - 1.2MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Electricity generation options</td>
+<td>Chapter 12</td>
+</tr>
+<tr class="alt-row">
+<td>Nuclear energy II: Waste disposal and Yucca Mountain</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec14b.pdf">PDF - 5.5MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Nuclear energy III: Expansion of civilian nuclear power and proliferation</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec15a.pdf">PDF - 1.9MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Fusion as a future energy source?</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec15b.pdf">PDF - 3.1MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Carbon management options</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Geothermal energy</p>
+<p>- Resources, types, magnitudes</p>
+<p>- Technical, environmental, societal, and economic issues</p>
+<p>- Drilling technologies</p>
+<p>- Subsurface reservoir systems</p>
+<p>- Heat and power conversion techniques</p>
+</td>
+<td>Chapter 11</td>
+</tr>
+<tr class="row">
+<td>
+<p>"Capturing Solar Energy."</p>
+<p>Solar photovoltaics and thermal energy</p>
+</td>
+<td>Chapter 10</td>
+</tr>
+<tr class="alt-row">
+<td>Recitation 2: Carbon limitation options / critique (student-led discussion)</td>
+<td>(<a href="3/MIT22_081JF10_lec18.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Biomass I: Resources and uses
+<p>- Resource types and requirements</p>
+<p>- Technical and environmental issues</p>
+<p>- Utilization options</p>
+<p>- Economic projections</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec19a.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Biomass II: Producing liquid fuels</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec19b.pdf">PDF - 1.3MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Part III: Energy end use, option assessment, and tradeoff analysis</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"Automotive Technologies and Fuel Economy Policy." (contributions from Irene Berry)</p>
+<p>Transportation</p>
+<p>- Technology issues</p>
+<p>- Timescales for change</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec20a.pdf">PDF - 2.2MB</a>)</span></td>
+<td>Sections 18.4-18.6</td>
+</tr>
+<tr class="row">
+<td>
+<p>Lifecycle analysis of biomass conversion</p>
+<p>- Land use issues (ecological stress, competition with food, water use, topsoil erosion, occupational hazards)</p>
+<p>- Net energy balance and energy integration opportunities</p>
+</td>
+<td>(<a href="3/MIT22_081JF10_lec20b.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"Systems Dynamics &amp; Sustainable Energy."</p>
+<p>Wind system dynamics, barriers to entry</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec21a.pdf">PDF</a>)</td>
+<td>Chapter 17</td>
+</tr>
+<tr class="row">
+<td>
+<p>"Electrochemical Approaches to Electrical Energy Storage."</p>
+<p>Electrochemical energy conversions</p>
+<p>- Fuel Cells</p>
+<p>- Batteries</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec21b.pdf">PDF - 4.6MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>"The Energy Crisis: A Neglected Solution."</p>
+<p>Sustainable buildings in developing countries</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec22a.pdf">PDF - 4.6MB</a>)</span></td>
+<td>Chapter 20</td>
+</tr>
+<tr class="row">
+<td>Toolbox 9: Probabilistic risk analysis</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec22b.pdf">PDF - 3.2MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Recitation 3: Current energy policy / critique (student-led discussion)</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec23.pdf">PDF</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>"Why So Little Progress on International Climate Negotiations?"</p>
+<p>Corporate and international efforts to abate global climate change; sustainability and global business</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec24a.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Hydropower</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT22_081JF10_lec24b.pdf">PDF - 2.6MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>"Sustainable Energy: Options for Africa."</p>
+<p>Challenges and options for electricity systems in Sub-Saharan Africa</p>
+</td>
+<td><span class="nobr">(<a href="3/MIT22_081JF10_lec25a.pdf">PDF - 7.9MB</a>)</span></td>
+<td>Chapter 12</td>
+</tr>
+<tr class="alt-row">
+<td>Course summary, panel discussion</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
