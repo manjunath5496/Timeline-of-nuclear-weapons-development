@@ -30,7 +30,7 @@
  <li><a href="#course29">Managing Nuclear Technology</a></li> 
   <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
    <li><a href="#course31">Nuclear Power Plant Dynamics and Control</a></li> 
-    <li><a href="#course32">Behavioral Economics and Finance</a></li> 
+    <li><a href="#course32">Career Options for Biomedical Research</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -3253,5 +3253,56 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course32">Career Options for Biomedical Research</h2>
+<p>"A Glimpse of MIT, Nuclear Engineering, and Multiscale Materials Modeling and Simulation." Lecture 11 presentation by Prof. Sidney Yip.&nbsp;<span class="nobr">(<a href="advisorsem05.pdf">PDF - 1.9 MB</a>)</span></p>
+</br>
+<p>2006 Issue of&nbsp;<em>Perspective</em>&nbsp;<span class="nobr">(<a href="5/perspective.pdf">PDF - 1.8 MB</a>)</span>&nbsp;</p>
+<p>Charge to the Class: Thoughts on the Term Project (<a href="5/term_project.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PERSPECTIVES ON GUEST&nbsp;SPEAKERS, WRITTEN BY STUDENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Prof. Bevin Engelward (Biological Engineering, MIT), by Cathy Zhang</td>
+</tr>
+<tr class="alt-row">
+<td>Dr. Fred Bowman (HST, MIT-Harvard), by Daon Ha (<a href="5/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Drs. Maria Mody and Seppo Ahlfors (Martinos Center, HST/MGH), by Monica Crespo (<a href="5/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Prof. Jacquelyn Yanch (Nuclear Science and Engineering, MIT), by Minwah Leung (<a href="5/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Drs. Ken Kwong and Bruce Jenkins (Martinos Center, HST/MGH), by Xin He (<a href="5/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Prof. Sidney Yip, by Justin Tan (<a href="5/sidney_yip_bio.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dr. Mark Fenske (Martinos Center, HST/MGH), by Xin He (<a href="5/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dr. Tom Deisboeck (Martinos Center, HST/MGH), by Bruck Assefa (<a href="5/lec13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Students' biographical statements:</p>
+<ul>
+<li>Bruck Assefa (<a href="5/bruck_assefa.pdf">PDF</a>&nbsp;)</li>
+<li>Monica Crespo (<a href="5/monica_crespo.pdf">PDF</a>)</li>
+<li>Daon Ha (<a href="5/daon_ha.pdf">PDF</a>)</li>
+<li>Minwah Leung (<a href="5/minwah_leung.pdf">PDF</a>)</li>
+<li>Sara Rubenstein (<a href="5/sara_ruben.pdf">PDF</a>)</li>
+<li>Justin Tan (<a href="5/justin_tan.pdf">PDF</a>)</li>
+<li>Cathy Zhang (<a href="5/cathy_zhang.pdf">PDF</a>)</li>
+</ul>
 </br>
 
