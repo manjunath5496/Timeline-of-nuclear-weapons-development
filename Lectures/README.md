@@ -27,7 +27,7 @@
 <li><a href="#course26">Plasma Transport Theory</a></li>
 <li><a href="#course27">Superconducting Magnets</a></li>
 <li><a href="#course28">Introduction to Sustainable Energy</a></li> 
- <li><a href="#course29">Microeconomic Theory I</a></li> 
+ <li><a href="#course29">Managing Nuclear Technology</a></li> 
   <li><a href="#course30">Microeconomic Theory III</a></li>
    <li><a href="#course31">Game Theory</a></li> 
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
@@ -3041,3 +3041,179 @@
 </tbody>
 </table>
 </br>
+<h2 id="course29">Managing Nuclear Technology</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="3/lec01slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Balance Sheets and Income Statements<br /><br />The Time Value of Money<br /><br />Discrete and Continuous Compounding</td>
+<td>(<a href="3/lec02slides.pdf">PDF</a>)</td>
+<td>(<a href="3/lec02notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Time Value of Money Mechanics (cont.)</td>
+<td>(<a href="3/lec03slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The Effects of Inflation<br /><br />Calculation of Capital Costs</td>
+<td>(<a href="3/22812lec04slides2.pdf">PDF - 1.0 MB</a>)</td>
+<td>(<a href="3/lec04notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Depreciation, Capital Recovery, and Taxes</td>
+<td>(<a href="3/lec05slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Depreciation, Capital Recovery, and Taxes (II)</td>
+<td>(<a href="3/lec06slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Levelized Cost of Product<br /><br />Carrying Charges</td>
+<td>&nbsp;</td>
+<td>(<a href="3/lec07notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Methods for Project Evaluation</td>
+<td>&nbsp;</td>
+<td>(<a href="3/lec08notes.xls">XLS</a>)</td>
+</tr>
+<tr class="row">
+<td>Methods for Project Evaluation (II): Nuclear Power Economics</td>
+<td>(<a href="3/lec09slides.pdf">PDF</a>)</td>
+<td>(<a href="3/lec09notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz #1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Retirement/Replacement Problems<br /><br />Cost of Capital</td>
+<td>(<a href="3/lec11slides_1.pdf">PDF 1</a>)<br /><br />(<a href="3/lec11slides_2.pdf">PDF 2</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Evaluating Projects under Uncertainty</td>
+<td>(<a href="3/lec12slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Economics of the Nuclear Fuel Cycle (I):<br />Material Balances and Simple Cost Models</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study</td>
+<td>(<a href="3/lec14slides.pdf">PDF - 2.9 MB</a>)</td>
+<td>(<a href="3/lec14note_1.pdf">PDF 1</a>)<br /><br />(<a href="3/lec14note_2.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Reprocessing and MOX Recycle: Economics and other Considerations</td>
+<td>(<a href="3/lec15slides.pdf">PDF</a>)</td>
+<td>(<a href="3/lec15note.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nonproliferation, Safeguards, and Export Controls<br /><br /><em>Guest Lecturer:</em>&nbsp;Matthew Bunn, Harvard University</td>
+<td>(<a href="3/lec16slides.pdf">PDF - 1.5 MB</a>)</td>
+<td>(<a href="3/lec16notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Proliferation-resistance and Nuclear Energy<br /><br /><em>Guest Lecturer</em>:&nbsp;Matthew Bunn, Harvard University</td>
+<td>(<a href="3/lec17slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz #2</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Externalities: Accounting and Regulation</td>
+<td>(<a href="3/lec19slides.pdf">PDF</a>)</td>
+<td>(<a href="3/lec19notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nuclear Waste Management (I)</td>
+<td>(<a href="3/lec20slides.pdf">PDF - 1.2 MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Nuclear Waste Management (II)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Risk Perceptions, Communication&nbsp;and Public Attitudes</td>
+<td>(<a href="3/lec22slides.pdf">PDF - 1.7 MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Future of Nuclear Power</td>
+<td>(<a href="3/lec23slides.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Term Project Presentations</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Term Project Presentations</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="col2" scope="col">ASSIGNMENTS</th>
+<th id="col3" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set #1: PSB, Problems 1.1, 1.2, 2.1, 2.4, 2.6, and 2.13</td>
+<td>(<a href="4/ps1soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set #2: PSB, Problems 2.15, 2.16, 2.17, 2.18, 2.19, 2.20, and 2.21</td>
+<td>(<a href="4/ps2soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set #3 (<a href="4/ps3.pdf">PDF</a>)</td>
+<td>(<a href="4/ps3soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set #4 (<a href="4/ps4.pdf">PDF</a>)<br />Problem Set #4 Addendum (<a href="4/ps4_addendum.pdf">PDF</a>)</td>
+<td>(<a href="4/ps4soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set #5 (<a href="4/ps5.pdf">PDF</a>)</td>
+<td>(<a href="4/ps5soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set #6 (<a href="4/ps6.pdf">PDF</a>)</td>
+<td>(<a href="4/ps6soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
