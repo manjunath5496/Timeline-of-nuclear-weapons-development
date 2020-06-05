@@ -21,7 +21,7 @@
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
-<li><a href="#course23">Information Technology and the Labor Market</a></li>
+<li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 <li><a href="#course24">Labor Economics and Public Policy</a></li>
 <li><a href="#course25">The Challenge of World Poverty</a></li>
 <li><a href="#course26">Foundations of Development Policy</a></li>
@@ -2374,4 +2374,41 @@
 </tbody>
 </table>
 </br>
+<h2 id="course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</h2>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="2/assignment1.pdf">PDF</a>)</td>
+<td>(<a href="2/solutions1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="2/assignment2.pdf">PDF</a>)</td>
+<td>(<a href="2/solutions2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="2/assignment3.pdf">PDF</a>)</td>
+<td>(<a href="2/solutions3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="2/assignment4.pdf">PDF</a>)</td>
+<td>(<a href="2/solutions4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="2/assignment5.pdf">PDF</a>)</td>
+<td>(<a href="2/solutions5.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<p>Midterm Quiz (<a href="2/quiz.pdf">PDF</a>)</p>
+<p>Solutions (<a href="2/quiz_solutions.pdf">PDF</a>)</p>
+</br>
