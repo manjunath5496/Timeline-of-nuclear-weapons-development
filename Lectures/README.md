@@ -2510,3 +2510,13 @@
 </table>
 </br>
 
+
+<h2 class="subhead">Course Notes</h2>
+<ul>
+<li>Introduction (<a href="3/chap1.pdf">PDF</a>)</li>
+<li>Motion of Charged Particles in Fields (<a href="3/chap2.pdf">PDF</a>)</li>
+<li>Collisions in Plasmas (<a href="3/chap3.pdf">PDF</a>)</li>
+<li>Fluid Description of Plasma (<a href="3/chap4.pdf">PDF</a>)</li>
+<li>Electromagnetic Waves in Plasmas (<a href="3/chap5.pdf">PDF - 1.8 MB</a>)</li>
+</ul>
+</br>
