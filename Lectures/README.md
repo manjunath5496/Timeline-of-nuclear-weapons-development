@@ -143,6 +143,31 @@
 </tbody>
 </table>
 </br>
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES</th>
+<th scope="col">STUDY SHEETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT22_01F16_Quiz1.pdf">Quiz 1: Energetics, Radioactive Decay, Half Life (PDF)</a></td>
+<td><a href="MIT22_01F16_Quiz1_Study.pdf">Quiz 1 study sheet (PDF)</a></td>
+<td><a href="MIT22_01F16_Quiz1Sol.pdf">Quiz 1 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_01F16_Quiz2.pdf">Quiz 2: Radiation Interactions with Matter (PDF)</a></td>
+<td><a href="MIT22_01F16_Quiz2_Study.pdf">Quiz 2 study sheet (PDF)</a></td>
+<td><a href="MIT22_01F16_Quiz2Sol.pdf">Quiz 2 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT22_01F16_Quiz3.pdf">Quiz 3: Effects of Radiation (PDF)</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
