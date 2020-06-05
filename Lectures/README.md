@@ -28,7 +28,7 @@
 <li><a href="#course27">Superconducting Magnets</a></li>
 <li><a href="#course28">Introduction to Sustainable Energy</a></li> 
  <li><a href="#course29">Managing Nuclear Technology</a></li> 
-  <li><a href="#course30">Microeconomic Theory III</a></li>
+  <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
    <li><a href="#course31">Game Theory</a></li> 
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
 
@@ -3216,4 +3216,13 @@
 </table>
 </br>
 
-
+<h2 id="course30">A Hands-On Introduction to Nuclear Magnetic Resonance</h2>
+<ul>
+<li>Lecture 0 (<a href="4/lecture0.pdf">PDF</a>) - A Hands on Introduction to NMR</li>
+<li>Lecture 1 (<a href="4/lecture_1.pdf">PDF</a>) - Nuclear Spin and Magnetic Resonance</li>
+<li>Lecture 2 (<a href="4/lecture_2.pdf">PDF</a>) - The Rotating Frame, RF Pulses and the Bloch Equations</li>
+<li>Lecture 3 (<a href="4/lecture_3.pdf">PDF</a>) - Magnetization Gradients, k-space and Molecular Diffusion</li>
+<li>Lecture 4 (<a href="4/lecture_4.pdf">PDF</a>) - Gradient and Spin Echoes</li>
+<li>Lecture 5 (<a href="4/lecture_5.pdf">PDF</a>) - 2-D Imaging and Slice Selection</li>
+</ul>
+</br>
