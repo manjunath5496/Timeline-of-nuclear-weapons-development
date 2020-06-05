@@ -10,7 +10,7 @@
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
-<li><a href="#course12">Networks</a></li>
+<li><a href="#course12">Electromagnetic Interactions</a></li>
 <li><a href="#course13">Strategy and Information</a></li>
 <li><a href="#course14">Industrial Organization and Public Policy</a></li>
 <li><a href="#course15">Government Regulation of Industry</a></li>
@@ -1359,5 +1359,44 @@
 </tbody>
 </table>
 </br>
+<h2 id="course12">Electromagnetic Interactions</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Basics of Electrostatics (<a href="1/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Solving Electrostatic Problems (<a href="1/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Separation of Variables (<a href="1/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conformal Mapping and Green's Theorem (<a href="1/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Solving Problems using Green's Theorem (<a href="1/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Basics of Magnetostatics (<a href="1/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Applications of Magnetostatics (<a href="1/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Low Frequency Maxwell's Equations (<a href="1/lecture8.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
 
