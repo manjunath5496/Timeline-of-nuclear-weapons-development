@@ -17,7 +17,7 @@
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
-<li><a href="#course19">Public Finance and Public Policy</a></li>
+<li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
 <li><a href="#course20">Environmental Policy and Economics</a></li>
 <li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
 <li><a href="#course22">Economics of Education</a></li>
@@ -2026,3 +2026,102 @@
 <p>Exam 1 with Solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/q1_solution.pdf">PDF - 2.8 MB</a>)</p>
 <p>Exam 2 with Solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/q2_sol.pdf">PDF</a>)</p>
 </br>
+<h2 id="course19">Integration of Reactor Design, Operations, and Safety</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Nuclear Energy System Strategies (<a href="2/lec1_nt.pdf">PDF - 2.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Design Goals and Interrelationship of Core Design Parameters (<a href="2/lec2_nt.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Thermal Hydraulic Design Requirements - LWR Steady State and Transient Design (<a href="2/lec3_nt.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Thermal Hydraulic in Safety Analysis (<a href="2/lec4_nt.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Reactor Physics - Design Parameters for PWRs (<a href="2/lec5_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Design Requirements - Safety and Critical Safety Functions (<a href="2/lec6_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reactor Safety: The Emergence of Probabilistic Risk Assessment (<a href="2/lec7_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactor Physics - Design Parameters for GFRs (<a href="2/lec8_ch.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>PRA Methodology Overview (<a href="2/lec9_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Probabilistic Calculations - I (<a href="2/lec10_11_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Probabilistic Calculations - II (<a href="2/lec10_11_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Risk-Informed Changes to the Licensing Basis - I (<a href="2/lec12_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Applying Safety Regulations to Plant Operations (<a href="2/lec13_ak.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Risk-Informed Changes to the Licensing Basis - II (<a href="2/lec14_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Large Break LOCA Analysis/Result (<a href="2/lec15_nt.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The Maintenance Rule - I</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>The Maintenance Rule - II</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Plant Economic Evaluation (<a href="2/lec18_nt.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Plant Economic Evaluation (cont.) (<a href="2/lec19_nt.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Materials Selection Process (<a href="2/lec20_rb.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Radiation Damage Effects and Their Design Implications (<a href="2/lec21_rb.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Environmental Degradation and its Design Implications (<a href="2/lec22_rb.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>PWR Materials Applications</td>
+</tr>
+<tr class="alt-row">
+<td>GFR Materials Applications (<a href="2/lec24_rb.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Risk Informed Design Guidance for Gen IV Reactors (<a href="2/lec25_ga.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Integration of Design Process - IRIS as the Example</td>
+</tr>
+<tr class="row">
+<td>Integration of Design Process - 1: IRIS Plant, 2: Sample Oral</td>
+</tr>
+</tbody>
+</table>
+</br>
+
