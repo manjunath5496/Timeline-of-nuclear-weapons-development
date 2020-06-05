@@ -378,6 +378,16 @@
 
 </br>
 
-
+<ul>
+<li><a href="MIT22_02S12_midterm_2011.pdf">2011 midterm exam (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm2011sol.pdf">2011 midterm exam solutions (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm_2010.pdf">2010 midterm exam (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm2010sol.pdf">2010 midterm exam solutions (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm.pdf">2012 midterm exam (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm_sol.pdf">2012 midterm exam solutions (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm2011sol.pdf">2011 final exam with solutions (PDF)</a></li>
+<li><a href="MIT22_02S12_midterm2010sol.pdf">2010 final exam with solutions (PDF)</a></li>
+</ul>
+</br>
 
 
