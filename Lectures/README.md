@@ -192,7 +192,50 @@
 </table>
 </br>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">
+<h3 class="title"><span id="parent-fieldname-title" class="">Assignments</span></h3>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>"Why Fusion? The Politics and Policy of Energy in the United States" (<a href="why_fusion_d.pdf">PDF 1</a>) (<a href="why_fusion.pdf">PDF 2 - 1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Acoustic Inertial Confinement Fusion" (<a href="acousticfusion.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Ignition of a Confined Plasma" (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="ignit_con_plasma.pdf">PDF - 2.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Stellarators" (<a href="stellarators.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Fast Rides: Uses of Fusion for Space Propulsion Systems" (<a href="fast_rides.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Helium-3 Fusion" (<a href="helium3_fusion.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Inertial Confinement Fusion" (<a href="inert_conf_fus.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"ITER Materials and Beyond" (<a href="iter_mat_beyond.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"ITER" (<a href="iter.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Levitated Dipole Experiment" (<a href="levit_dipole_exp.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Pyroelectric Fusion" (<a href="pyroelectric_fus.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
-
+</br>
 
