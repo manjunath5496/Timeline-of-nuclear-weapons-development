@@ -8,7 +8,7 @@
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
-<li><a href="#course10">Economic Applications of Game Theory</a></li>
+<li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Economics and Psychology</a></li>
 <li><a href="#course12">Networks</a></li>
 <li><a href="#course13">Strategy and Information</a></li>
@@ -1189,8 +1189,97 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Applied Nuclear Physics</h2>
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Basic Nuclear Concepts (<a href="lec01.pdf">PDF</a>)</p>
+<p>Supplement (<a href="lec01_suppl.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Quantum Mechanical Description of Nuclei</strong></td>
+</tr>
+<tr class="row">
+<td>Schr&ouml;dinger Wave Equation (<a href="lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bound States in One Dimensional Systems &ndash; Particle in a Square Well (<a href="lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bound States in Three Dimensions -- Orbital Angular Momentum (<a href="lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Barrier Penetration (<a href="lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Neutron-Proton System: Bound State of the Deuteron (<a href="lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Overview of Cross Section Calculation (<a href="lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Neutron-Proton Scattering (<a href="lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 1 (Lec #1-8, Closed Book)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Nuclear Binding, Stability and Decay</strong></td>
+</tr>
+<tr class="row">
+<td>Nuclear Shell Model (<a href="lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nuclear Binding Energy and Stability (<a href="lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Binding Energy and Mass Parabolas (<a href="lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Interaction of Radiation with Matter</strong></td>
+</tr>
+<tr class="row">
+<td>Radioactive-Series Decay (<a href="lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Charged Particle Interactions: Stopping Power, Collision and Ionization (<a href="lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Charged Particle Interactions: Radiation Loss, Range (<a href="lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Neutron Interactions: Q-equation and Elastic Scattering (<a href="lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Neutron Interactions: Energy, Angular Distributions, Thermal Motions (<a href="lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gamma Interactions: Compton Scattering (<a href="lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gamma Interactions: Photoelectric Effect and Pair Production (<a href="lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Detection of Nuclear Radiation: Pulse Height Spectra (<a href="lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Nuclear Processes</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Nuclear Decays (<a href="lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nuclear Reactions: Energetics and Compound Nucleus (<a href="lec23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
