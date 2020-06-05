@@ -23,7 +23,7 @@
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
-<li><a href="#course25">The Challenge of World Poverty</a></li>
+<li><a href="#course25">MHD Theory of Fusion Systems</a></li>
 <li><a href="#course26">Foundations of Development Policy</a></li>
 <li><a href="#course27">Political Economy and Economic Development</a></li>
 <li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
@@ -2520,3 +2520,94 @@
 <li>Electromagnetic Waves in Plasmas (<a href="3/chap5.pdf">PDF - 1.8 MB</a>)</li>
 </ul>
 </br>
+<h2 id="course25">MHD Theory of Fusion Systems</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Derivation of the Boltzmann equation (<a href="3/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The moment equations (<a href="3/lecture2.pdf">PDF</a>)</p>
+<p>Derivation of ideal MHD equation (<a href="3/lecture2_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>MHD equilibrium (<a href="3/lecture3.pdf">PDF</a>)</p>
+<p>Validity of MHD (<a href="3/lecture3_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Toroidal equilibrium and radial pressure balance (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The screw pinch and the Grad-Shafranov equation (<a href="3/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The safety factor and the ohmic tokamak (<a href="3/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The first order Grad-Shafranov equation (<a href="3/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Effect of a vertical field on tokamak equilibrium (<a href="3/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The high beta tokamak (<a href="3/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The high beta tokamak (cont.) and the high flux conserving tokamak (<a href="3/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Flux conserving tokamak (cont.) (<a href="3/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>PF design I - the plasma (<a href="3/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>PF design II - the coil solver (<a href="3/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Formulation of the stability problem (<a href="3/lecture14.pdf">PDF</a>)</p>
+<p>Real tokamaks (with Bob Granetz) (<a href="3/lecture14_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Variational techniques (<a href="3/lecture15.pdf">PDF</a>)</p>
+<p>Alternate concepts (with Darren Sarmer) (<a href="3/lecture15_h.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Variational principle (<a href="3/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stability of simple function (<a href="3/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 18 (<a href="3/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 19 (<a href="3/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 20 (<a href="3/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 21 (<a href="3/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 22 (<a href="3/lecture22.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
