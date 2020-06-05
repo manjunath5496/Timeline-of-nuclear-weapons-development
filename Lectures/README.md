@@ -7,7 +7,7 @@
 <li><a href="#course6">Principles of Medical Imaging</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
-<li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
+<li><a href="#course9">Nuclear Reactor Safety</a></li>
 <li><a href="#course10">Economic Applications of Game Theory</a></li>
 <li><a href="#course11">Economics and Psychology</a></li>
 <li><a href="#course12">Networks</a></li>
@@ -1053,4 +1053,144 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course9">Nuclear Reactor Safety</h2>
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+<th scope="col">TEACHING&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and overview</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s108" /><a href="MIT22_091S08_lec01.pdf" data-smd-id="s109">PDF - 2.0MB</a>)</td>
+<td>(<a href="MIT22_091S08_lec01note.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactor physics review</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s111" /><a href="MIT22_091S08_lec02.pdf" data-smd-id="s112">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec02note.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reactor kinetics and control</td>
+<td>(<a href="MIT22_091S08_lec03.pdf" data-smd-id="s114">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec03note.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fuel depletion and related effects</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s116" /><a href="MIT22_091S08_lec04.pdf" data-smd-id="s117">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec04note.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>MIT reactor physics exercise &ndash; power change</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT22_091S08_lec05note.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactor energy removal</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s120" /><a href="MIT22_091S08_lec06.pdf" data-smd-id="s121">PDF - 1.1MB</a>)</td>
+<td>(<a href="MIT22_091S08_lec06note.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Design issues: power cycles for nuclear plants - Rankine Cycle</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s123" /><a href="MIT22_091S08_lec07.pdf" data-smd-id="s124">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec07note.pdf" data-smd-id="s125">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Power cycles for nuclear plants &ndash; Rankine and Brayton Cycle</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s126" /><a href="MIT22_091S08_lec08.pdf" data-smd-id="s127">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec08note.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Safety systems and functions</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s129" /><a href="MIT22_091S08_lec09.pdf" data-smd-id="s130">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec09note.pdf" data-smd-id="s131">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Safety analysis report and LOCA</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s132" /><a href="MIT22_091S08_lec10.pdf" data-smd-id="s133">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec10note.pdf" data-smd-id="s134">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Probabilistic safety analysis</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s135" /><a href="MIT22_091S08_lec11.pdf" data-smd-id="s136">PDF - 1.1MB</a>)</td>
+<td>(<a href="MIT22_091S08_lec11note.pdf" data-smd-id="s137">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Safety goals and risk informed decision making</td>
+<td>(<a href="MIT22_091S08_lec12.pdf" data-smd-id="s138">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec12note.pdf" data-smd-id="s139">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integration of safety analysis into operational requirements</td>
+<td>(<a href="MIT22_091S08_lec13.pdf" data-smd-id="s140">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec13note.pdf" data-smd-id="s141">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simulation exercises of accidents and transients</td>
+<td>(<a href="MIT22_091S08_lec14.pdf" data-smd-id="s142">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec14note.pdf" data-smd-id="s143">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Boiling water reactors</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s144" /><a href="MIT22_091S08_lec15.pdf" data-smd-id="s145">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec15note.pdf" data-smd-id="s146">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Seabrook background information</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT22_091S08_lec16note.pdf" data-smd-id="s147">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Seabrook station simulator exercises</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT22_091S08_lec17note.pdf" data-smd-id="s148">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pilgrim station background information</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s149" /><a href="MIT22_091S08_lec18.pdf" data-smd-id="s150">PDF - 1.9MB</a>)</td>
+<td>(<a href="MIT22_091S08_lec18note.pdf" data-smd-id="s151">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Three Mile Island Accident</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s152" /><a href="MIT22_091S08_lec19.pdf" data-smd-id="s153">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec19note.pdf" data-smd-id="s154">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chernobyl</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT22_091S08_lec20note.pdf" data-smd-id="s155">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Davis Besse &ndash; near miss 2002</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s156" /><a href="MIT22_091S08_lec21.pdf" data-smd-id="s157">PDF - 1.8MB</a>)</td>
+<td>(<a href="MIT22_091S08_lec21note.pdf" data-smd-id="s158">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Safety culture</td>
+<td>(<a href="MIT22_091S08_lec22.pdf" data-smd-id="s159">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec22note.pdf" data-smd-id="s160">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Current regulatory issues</td>
+<td>(<a href="MIT22_091S08_lec24_1.pdf" data-smd-id="s161">PDF - 2.3MB</a>)</td>
+<td>(<a href="MIT22_091S08_lec23note.pdf" data-smd-id="s162">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Current regulatory safety issues</td>
+<td>(<a href="MIT22_091S08_lec24_2.pdf" data-smd-id="s163">PDF</a>)</td>
+<td>(<a href="MIT22_091S08_lec24note.pdf" data-smd-id="s164">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
