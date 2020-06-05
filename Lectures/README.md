@@ -22,7 +22,7 @@
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
-<li><a href="#course24">Labor Economics and Public Policy</a></li>
+<li><a href="#course24">Introduction to Plasma Physics I</a></li>
 <li><a href="#course25">The Challenge of World Poverty</a></li>
 <li><a href="#course26">Foundations of Development Policy</a></li>
 <li><a href="#course27">Political Economy and Economic Development</a></li>
@@ -2412,3 +2412,101 @@
 <p>Midterm Quiz (<a href="2/quiz.pdf">PDF</a>)</p>
 <p>Solutions (<a href="2/quiz_solutions.pdf">PDF</a>)</p>
 </br>
+<h2 id="course24">Introduction to Plasma Physics I</h2>
+<h3 class="subhead">Problem Sets</h3>
+<p>Problem Set 1 (<a href="3/pset1.pdf">PDF</a>)</p>
+<p>Problem Set 2 (<a href="3/pset2.pdf">PDF</a>)</p>
+<p>Problem Set 3 (<a href="3/pset3.pdf">PDF</a>)</p>
+<p>Problem Set 4 (<a href="3/pset4.pdf">PDF</a>)</p>
+<p>Problem Set 5 (<a href="3/pset5.pdf">PDF</a>)</p>
+<p>Problem Set 6 (<a href="3/pset6.pdf">PDF</a>)</p>
+<p>Problem Set 7 (<a href="3/pset7.pdf">PDF</a>)</p>
+<p>Problem Set 8 (<a href="3/pset8.pdf">PDF</a>)</p>
+<p>Problem Set 9 (<a href="3/pset9.pdf">PDF</a>)</p>
+</br>
+<h3 class="subsubhead">2005 Problem Sets</h3>
+<p>Problem Set 1 (<a href="3/ps1_05.pdf">PDF</a>)</p>
+<p>Problem Set 2 (<a href="3/ps2_05.pdf">PDF</a>)</p>
+<p>Problem Set 3 (<a href="3/ps3_05.pdf">PDF 1</a>) (<a href="3/ps3_part2_05.pdf">PDF 2</a>)</p>
+<p>Problem Set 4 (<a href="3/ps4_05.pdf">PDF</a>)</p>
+<p>Problem Set 5 (<a href="3/ps5_05.pdf">PDF</a>)</p>
+<p>Problem Set 6 (<a href="3/ps6_05.pdf">PDF</a>)</p>
+<p>Problem Set 7 (<a href="3/ps7_05.pdf">PDF</a>)</p>
+<p>Problem Set 8 (<a href="3/ps8_05.pdf">PDF</a>)</p>
+<p>Problem Set 9 (<a href="3/ps9_05.pdf">PDF</a>)</p>
+</br>
+<h3 class="subsubhead">2002 Problem Sets and Solutions</h3>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="3/pset1_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset1sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="3/pset2_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset2sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="3/pset3_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset3sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="3/pset4_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset4sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="3/pset5_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset5sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="3/pset6_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset6sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="3/pset7_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset7sol_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 8 (<a href="3/pset8_02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/pset8sol_02.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<h2 class="subhead">2006 Exams</h2>
+<p>Mid-Term Exam (<a href="3/mid_term_quiz_06.pdf">PDF</a>)</p>
+<p>Final Exam (<a href="3/final_exam_06_3.pdf">PDF</a>)</p>
+<h2 class="subhead">Practice Exams</h2>
+<h3 class="subsubhead">2005</h3>
+<p>Mid-Term Exam (<a href="3/mid_term_quiz_05.pdf">PDF</a>)</p>
+<p>Final Exam (<a href="3/final_exam_05.pdf">PDF</a>)</p>
+</br>
+<h3 class="subsubhead">2002</h3>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Mid-term exam (<a href="3/midterm_2002.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/midterm02_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam (<a href="3/finalexam2002.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/finalexam02_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
