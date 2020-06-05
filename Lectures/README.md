@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Introduction to Nuclear Engineering and Ionizing Radiation</a></li>
-<li><a href="#course2">Principles of Macroeconomics</a></li>
+<li><a href="#course2">Seminar: Fusion and Plasma Physics</a></li>
 <li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
 <li><a href="#course5">Intermediate Macroeconomics</a></li>
@@ -170,4 +170,29 @@
 </tbody>
 </table>
 </br>
+<h2 id="course2">Seminar: Fusion and Plasma Physics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Fusion Reactors: The Ultimate Nuclear Power Plant&nbsp;<span class="nobr">(<a href="fus_react_parker.pdf">PDF - 1.1 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>MHD for Fusion: Where Next? (<a href="mhd.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fusion without Neutrons Using p-B11 Fuel&nbsp;<span class="nobr">(<a href="aneutronic_fusn.pdf">PDF - 1.1 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
