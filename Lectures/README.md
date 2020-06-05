@@ -1282,4 +1282,47 @@
 </tbody>
 </table>
 </br>
+<h2 class="subhead">Assignments</h2>
+<p>Problem Set 1 (<a href="ps1.pdf">PDF</a>)</p>
+<p>Problem Set 1 Solution (<a href="ps1_solutions.pdf">PDF</a>)</p>
+<p>Problem Set 2 (<a href="ps2.pdf">PDF</a>)</p>
+<p>Problem Set 3 (<a href="ps3.pdf">PDF</a>)</p>
+<p>Problem Set 4 (<a href="ps4.pdf">PDF</a>)</p>
+<p>Problem Set 5 (<a href="ps5.pdf">PDF</a>)</p>
+<p>Problem Set 6 (<a href="ps6.pdf">PDF</a>)</p>
+<p>Problem Set 7 (<a href="ps7.pdf">PDF</a>)</p>
+<p>Problem Set 8 (<a href="ps8.pdf">PDF</a>)</p>
+</br>
 
+<p>Formula Sheet for Quiz 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="formula_quiz1.pdf">PDF</a>)</p>
+<p>Formula Sheet for Quiz 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="formula_quiz2.pdf">PDF</a>)</p>
+<p>Formula Sheet for Quiz 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="formula_quiz3.pdf">PDF</a>)</p>
+<p>Notes on the Review for Quiz 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="review_quiz2.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">SAMPLE&nbsp;QUIZZES</th>
+<th scope="col">QUIZZES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(<a href="samples_quiz1.pdf">PDF</a>)</td>
+<td>(<a href="quiz1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="solutions_quiz1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="samples_quiz2.pdf">PDF</a>)</td>
+<td>(<a href="quiz2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="solutions_quiz2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="samples_quiz3.pdf">PDF</a>)</td>
+<td>(<a href="quiz3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="solutions_quiz3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
