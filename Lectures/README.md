@@ -15,7 +15,7 @@
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
-<li><a href="#course17">Competition in Telecommunications</a></li>
+<li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
 <li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
 <li><a href="#course19">Public Finance and Public Policy</a></li>
 <li><a href="#course20">Environmental Policy and Economics</a></li>
@@ -1699,4 +1699,56 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course17">Structural Mechanics in Nuclear Power Technology</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="problem1.pdf">PDF</a>)</td>
+<td>(<a href="problem1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="problem2.pdf">PDF</a>)</td>
+<td>(<a href="problem2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="problem3.pdf">PDF</a>)</td>
+<td>(<a href="problem3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="problem4.pdf">PDF</a>)</td>
+<td>(<a href="problem4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="problem5.pdf">PDF</a>)</td>
+<td>(<a href="problem5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="problem6.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="problem6_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="problem7.pdf">PDF</a>)</td>
+<td>(<a href="problem7_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 (<a href="problem8_part1.pdf">PDF 1</a>) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="problem8_part2.pdf">PDF 2</a>)</td>
+<td>(<a href="problem8_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 9 (<a href="problem9.pdf">PDF</a>)</td>
+<td>(<a href="problem9_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Quiz (<a href="22_314_quiz.pdf">PDF</a>)</p>
+<p>Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="quiz1_solution.pdf">PDF</a>)</p>
 </br>
