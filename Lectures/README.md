@@ -13,7 +13,7 @@
 <li><a href="#course12">Electromagnetic Interactions</a></li>
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
-<li><a href="#course15">Government Regulation of Industry</a></li>
+<li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Economics and E-Commerce</a></li>
 <li><a href="#course17">Competition in Telecommunications</a></li>
 <li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
@@ -1539,4 +1539,119 @@
 
 </br>
 
+<h2 id="course15">Engineering of Nuclear Reactors</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">2015&nbsp;EXAMS</th>
+<th scope="col">2015&nbsp;SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT22_312F15_quiz1_2015.pdf">2015 Quiz 1 (PDF)</a></p>
+<p>This quiz is given in class, open book, covering all material from Lectures 1&ndash;7.</p>
+</td>
+<td>
+<p><a href="MIT22_312F15_quiz1_2015Sol.pdf">2015 Quiz 1 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT22_312F15_quiz2_2015.pdf">2015 Quiz 2 (PDF)</a></p>
+<p>This quiz is take-home, open book, covering all material from Lectures 8&ndash;13.</p>
+</td>
+<td>
+<p><a href="MIT22_312F15_quiz2_2015Sol.pdf">2015 Quiz 2 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT22_312F15_final_2015.pdf">2015 Final Exam (PDF)</a></p>
+<p>This exams is 3 hours, open book, and covers entire course with specific attention to material of Lectures 13&ndash;25.</p>
+</td>
+<td>
+<p><a href="MIT22_312F15_final_2015Sol.pdf">2015 Final Exam Solutions (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PRIOR&nbsp;YEAR&nbsp;QUIZZES&nbsp;AND&nbsp;EXAMS</th>
+<th scope="col">PRIOR&nbsp;YEAR&nbsp;SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Quiz 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_312F15_quiz1_2014.pdf">2014 Quiz 1 (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_quiz1_2014Sol.pdf">2014 Quiz 1 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT22_312F15_quiz1_2009.pdf">2009 Quiz 1 (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_quiz1_2009Sol.pdf">2009 Quiz 1 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_312F15_quiz1_2008.pdf">2008 Quiz 1 (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_quiz1_2008Sol.pdf">2008 Quiz 1 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Quiz 2</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_312F15_quiz2_2014.pdf">2014 Quiz 2 (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_quiz2_2014Sol.pdf">2014 Quiz 2 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT22_312F15_quiz2_2009.pdf">2009 Quiz 2 (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_quiz2_2009Sol.pdf">2009 Quiz 2 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_312F15_quiz2_2008.pdf">2008 Quiz 2 (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_quiz2_2008Sol.pdf">2008 Quiz 2 Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Final Exam</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_312F15_final_2014.pdf">2014 Final Exam (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_final_2014Sol.pdf">2014 Final Exam Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT22_312F15_final_2009.pdf">2009 Final Exam (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_final_2009Sol.pdf">2009 Final Exam Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT22_312F15_final_2008.pdf">2008 Final Exam (PDF)</a></td>
+<td>
+<p><a href="MIT22_312F15_final_2008Sol.pdf">2008 Final Exam Solutions (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
