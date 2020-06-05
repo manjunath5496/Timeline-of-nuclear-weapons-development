@@ -16,7 +16,7 @@
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
-<li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
+<li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Public Finance and Public Policy</a></li>
 <li><a href="#course20">Environmental Policy and Economics</a></li>
 <li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
@@ -1751,4 +1751,278 @@
 </br>
 <p>Quiz (<a href="22_314_quiz.pdf">PDF</a>)</p>
 <p>Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="quiz1_solution.pdf">PDF</a>)</p>
+</br>
+<h2 id="course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>I. The Logic of Certainty</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>I.1 Events and Boolean Operations</p>
+<p>I.2 Event Sequence Identification (Failure Modes and Effects Analysis; Hazard and Operability Analysis; Fault Tree Analysis; Event Tree Analysis)</p>
+<p>I.3 Coherent Structure Functions</p>
+<p>I.4 Minimal Cut (Path) Sets</p>
+</td>
+<td>
+<p>Risk-Informed Operational Decision Management (RIODM):</p>
+<p>1. Risk, Event Trees and Fault Trees (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec1_1.pdf">PDF</a>)<br />2. Reliability and Availability (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec1_2.pdf">PDF</a>)</p>
+<p>Structure Functions (<a href="sec1_struct_func.pdf">PDF</a>)</p>
+<p>Valve Test Example (<a href="sec1_valve_test.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>II. Probability</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>II.1 Definitions and Interpretations (Axiomatic; Subjectivistic; Frequentistic)</p>
+<p>II.2 Basic Rules</p>
+<p>II.3 Theorem of Total Probability</p>
+<p>II.4 Bayes' Theorem</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>III. Random Variables and Distribution Functions</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>III.1 Discrete and Continuous Random Variables</p>
+<p>III.2 Cumulative Distribution Functions</p>
+<p>III.3 Probability Mass and Density Functions</p>
+<p>III.4 Moments</p>
+<p>III.5 Failure Models and Reliability</p>
+<p>III.6 Failure Rates</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>IV. Useful Probability Distributions</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>IV.1 Bernoulli Trials and the Binomial Distribution</p>
+<p>IV.2 The Poisson Distribution</p>
+<p>IV.3 The Exponential Distribution</p>
+<p>IV.4 The Normal and Lognormal Distributions</p>
+<p>IV.5 The Concept of Correlation</p>
+</td>
+<td>
+<p>Basic Probabilistic Concepts (<a href="sec4_binomial.pdf">PDF</a>)</p>
+<p>Convergence of Binomial and Normal Distributions for Large Numbers of Trials (<a href="sec4_binom_norm.pdf">PDF</a>)</p>
+<p>Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p&lt;&lt;1 (<a href="sec4_binom_pois.pdf">PDF</a>)</p>
+<p>Plane Crash Example (<a href="sec4_flight_case.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>V. Multivariate Distributions</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>V.1 Joint and Conditional Distribution Functions</p>
+<p>V.2 Moments</p>
+<p>V.3 The Multivariate Normal and Lognormal Distributions</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>VI. Functions of Random Variables</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>VI.1 Single Random Variable</p>
+<p>VI.2 Multiple Random Variables</p>
+<p>VI.3 Moments of Functions of Random Variables</p>
+<p>VI.4 Approximate Evaluation of the Mean and Variance of a Function</p>
+<p>VI.5 Analytical Results for the Normal and Lognormal Distributions</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>VII. Statistical Methods</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>VII.1 Student's t-distribution</p>
+<p>VII.2 Chi-Squared Distribution</p>
+<p>VII.3 Hypothesis Testing</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>VIII. Elements of Statistics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>VIII.1 Random Samples</p>
+<p>VIII.2 Method of Moments</p>
+<p>VIII.3 Method of Maximum Likelihood</p>
+<p>VIII.4 Probability Plotting</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>IX. Applications to Reliability</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>IX.1 Simple Logical Configurations (Series; Parallel; Standby Redundancy)</p>
+<p>IX.2 Complex Systems</p>
+<p>IX.3 Stress-Strength Interference Theory</p>
+<p>IX.4 Modeling of Loads and Strength</p>
+<p>IX.5 Reliability-Based Design</p>
+<p>IX.6 Elementary Markov Models</p>
+</td>
+<td>
+<p>Failure, Repair, Maintenance (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec9_failure.pdf">PDF</a>)</p>
+<p>Reliability and Availability (<a href="sec9_reliability.pdf">PDF</a>)</p>
+<p>Operational Availability (<a href="sec9_ops.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>X. Bayesian Statistics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>X.1 Bayes' Theorem and Inference</p>
+<p>X.2 Conjugate Families of Distributions</p>
+<p>X.3 Comparison with Frequentist Statistics</p>
+<p>X.4 Elicitation and Utilization of Expert Opinions</p>
+</td>
+<td>
+<p>Bayes' Theorem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec10_bayesian.pdf">PDF</a>)</p>
+<p>Bayesian Inference (<a href="sec10_bayes_updt.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>XI. Monte Carlo Simulation</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>XI.1 The Concept of Simulation</p>
+<p>XI.2 Generation of Random Numbers</p>
+<p>XI.3 Generation of Jointly Distributed Random Numbers</p>
+<p>XI.4 Latin Hypercube Sampling</p>
+<p>XI.5 Examples from Risk and Reliability Assessment</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>XII. Probabilistic Risk Assessment of Complex Systems</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>XII.1 Risk Curves and Accident Scenario Identification</p>
+<p>XII.2 Event-Tree and Fault-Tree Analysis</p>
+<p>XII.3 Unavailability Theory of Repairable and Periodically Tested Systems</p>
+<p>XII.4 Dependent (Common-Cause) Failures</p>
+<p>XII.5 Human Reliability Models</p>
+<p>XII.6 Component Importance</p>
+<p>XII.7 Examples from Risk Assessments for Nuclear Reactors, Chemical Process Systems, and Waste Repositories</p>
+</td>
+<td>
+<p>PRA: An Historical Perspective (<a href="sec12_pra_aposta.pdf">PDF - 1.8 MB</a>) (Courtesy of Prof. George Apostolakis. Used with permission.)</p>
+<p>PRA Structure and Results (<a href="sec12_pra_struct.pdf">PDF - 1.1 MB</a>)</p>
+<p>Uncertainty (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec12_uncertaint.pdf">PDF</a>)</p>
+<p>Types of Uncertainty (<a href="sec12_types_unc.pdf">PDF</a>)</p>
+<p>Common Cause Failures 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec12_commonfa_1.pdf">PDF</a>)</p>
+<p>Common Cause Failures 2 (<a href="sec12_commonfa_2.pdf">PDF</a>)</p>
+<p>PRA in Managing Operations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec12_management.pdf">PDF</a>)</p>
+<p>Engineered Safety Features (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec12_esf.pdf">PDF</a>)</p>
+<p>Containment (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="sec12_containmen.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="2/ps1.pdf">PDF</a>)</td>
+<td>(<a href="2/ps1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="2/ps2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem Set 3</p>
+<p>Ang and Tang: Problems 2.40, 2.43, 3.1, 3.12, 3.14, 3.19, 3.22, 3.26</p>
+<p>Problem Set 3 Extra Credit (<a href="2/ps3_extracredit.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps3_solutions.pdf">PDF</a>)Extra Credit (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps3_extacrdt_sol.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem Set 4</p>
+<p>Ang and Tang: Problems 3.31, 3.34, 3.38, 3.41, 3.48, 3.50, 3.59</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps4_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem Set 5</p>
+<p>Ang and Tang: Problems 3.61, 3.62</p>
+<p>Rausand, and Hoyland: Problems 2.2, 2.8, 2.9, 2.27</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps5_sol.pdf">PDF</a>)
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem Set 6</p>
+<p>Ang and Tang: Problems 4.5, 4.9, 4.19, 4.24, 4.31, 4.32</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps6_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem Set 7</p>
+<p>Ang and Tang: Problems 5.3, 5.5, 5.10, 5.14, 6.7 b, c, 6.8</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps7_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem Set 8</p>
+<p>Rausand and Hoyland: Problems 4.5, 4.6, 4.7 a, b, c, 4.12</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps8_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 9 (<a href="2/ps9.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps9_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 10 (<a href="2/ps10.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/ps10_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Exam 1 with Solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/q1_solution.pdf">PDF - 2.8 MB</a>)</p>
+<p>Exam 2 with Solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/q2_sol.pdf">PDF</a>)</p>
 </br>
