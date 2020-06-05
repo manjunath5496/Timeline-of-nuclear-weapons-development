@@ -18,7 +18,7 @@
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
-<li><a href="#course20">Environmental Policy and Economics</a></li>
+<li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
 <li><a href="#course22">Economics of Education</a></li>
 <li><a href="#course23">Information Technology and the Labor Market</a></li>
@@ -2124,4 +2124,92 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Fundamentals of Advanced Energy Conversion</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction (<a href="2/intro.pdf">PDF - 1.6 MB</a>)<br /><br />Thermodynamics (<a href="2/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Thermomechanical Conversion (<a href="2/lecture2.pdf">PDF 1</a>) (<a href="2/lecture3.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Chemical Thermodynamics - Part I&nbsp;<span class="nobr">(<a href="2/lecture4.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="2/lecture5.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Chemical Thermodynamics - Part II&nbsp;<span class="nobr">(<a href="2/lecture6.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="2/lecture7.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="row">
+<td headers="col2">Chemical Thermodynamics - Part III&nbsp;<span class="nobr">(<a href="2/lecture8.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="2/lecture9.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Electrochemical Energy Conversion and Storage I - Thermodynamics (<a href="2/lecture10.pdf">PDF 1</a>) (<a href="2/lecture11.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Chemical Kinetics - Part I (<a href="2/lecture12.pdf">PDF 1</a>) (<a href="2/lecture13.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Chemical Kinetics - Part II (<a href="2/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">High Power Conversion Efficiency for Advanced Gas, Coal and Nuclear Plants (<a href="2/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Supercritical Cycles for Nuclear Power Plants (<a href="2/lecture18.pdf">PDF 1</a>) (<a href="2/lecture19.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Transport Processes - I (<a href="2/lecture20.pdf">PDF 1</a>) (<a href="2/lecture21.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Hydrogen for Vehicles: Technology and Economy Issues (<a href="2/lecture22.pdf">PDF 1</a>) (<a href="2/lecture23.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fuel Cell (<a href="2/lecture24.pdf">PDF 1</a>) (<a href="2/lecture25.pdf">PDF 2</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">ASSIGNMENTS</th>
+<th id="col3" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;1 (<a href="2/hw_1.pdf">PDF</a>)&nbsp;</td>
+<td headers="col3">(<a href="2/hw_1_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework 2 (<a href="2/hw_2.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="2/hw_2_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;3 (<a href="2/hw_3.pdf">PDF</a>)&nbsp;</td>
+<td headers="col3">(<a href="2/hw_3_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework 4 (<a href="2/hw_4.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="2/hw_4_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework 5 (<a href="2/hw_5.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="2/hw_5_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework&nbsp;6 (<a href="2/hw_6.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="2/hw_6_solution.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
