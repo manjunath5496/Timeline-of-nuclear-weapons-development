@@ -2,7 +2,7 @@
 <li><a href="#course1">Introduction to Nuclear Engineering and Ionizing Radiation</a></li>
 <li><a href="#course2">Seminar: Fusion and Plasma Physics</a></li>
 <li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
-<li><a href="#course4">Intermediate Microeconomic Theory</a></li>
+<li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Intermediate Macroeconomics</a></li>
 <li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
 <li><a href="#course7">Financial Crises</a></li>
@@ -389,5 +389,10 @@
 <li><a href="MIT22_02S12_midterm2010sol.pdf">2010 final exam with solutions (PDF)</a></li>
 </ul>
 </br>
-
-
+<h2 id="course4">Nuclear Systems Design Project</h2>
+<p>Chilton, L. "UT-3 Hydrogen Separation Process Mass Flow Rate Characterization and Selection of Zirconium Silica Hydrogen Separator Membrane." (<a href="MIT22_033F11_asn_journal2a.pdf">PDF</a>)</p>
+<p>Otgonbaatar, U. "Overview of Slurry Phase Bubble Column Fischer Tropsch Synthesis Reactor and Relevant Design Parameters." (<a href="MIT22_033F11_asn_journal2b.pdf">PDF</a>)</p>
+<p>Salazar, A. "Implementation of Switchgrass as Feedstock for a Industrial Biofuels Process in a Nuclear Complex." (<a href="MIT22_033F11_asn_journal2c.pdf">PDF</a>)</p>
+<p>Verma, A. "Assessment of Heat Exchangers for Coupling a High Temperature Nuclear Reactor to Hydrogen and Biofuels Plants." (<a href="MIT22_033F11_asn_journal1a.pdf">PDF</a>)</p>
+<p>Sutherland, D. A. "Letter to the Editors on the Feasibility of Thermochemical and Bacterial Hydrogen Production Methods for Nuclear Systems." (<a href="MIT22_033F11_asn_journal1b.pdf">PDF</a>)</p>
+</br>
