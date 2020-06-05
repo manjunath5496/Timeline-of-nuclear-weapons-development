@@ -25,7 +25,7 @@
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
 <li><a href="#course26">Plasma Transport Theory</a></li>
-<li><a href="#course27">Political Economy and Economic Development</a></li>
+<li><a href="#course27">Superconducting Magnets</a></li>
 <li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
  <li><a href="#course29">Microeconomic Theory I</a></li> 
   <li><a href="#course30">Microeconomic Theory III</a></li>
@@ -2596,3 +2596,58 @@
 </br>
 <p>Take Home Final Exam (<a href="3/finalexam.pdf">PDF</a>)</p>
 </br>
+<h2 id="course27">Superconducting Magnets</h2>
+
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2"><em>Introduction</em><br /><br />Superconductivity&nbsp;and Applications<br /><br />Prospects and Challenges</td>
+<td headers="col3">(<a href="3/fusion_magnets_1.pdf" data-smd-id="s106">PDF 1 - 1 of 2 - 1.2 MB</a>) (<a href="3/fusion_magnets_2.pdf" data-smd-id="s107">PDF 1 - 2 of 2 - 2.3 MB</a>) (<a href="3/lecture_1_1.pdf" data-smd-id="s108">PDF 2 - 2.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Electromagnetic Fields</em><br /><br />Static Fields<br /><br />Time-varying fields</td>
+<td headers="col3">(<a href="3/all_pages_1.pdf" data-smd-id="s109">PDF 1</a>) (<a href="3/figures.pdf" data-smd-id="s110">PDF 2</a>) (<a href="3/mag_reynolds_num.pdf" data-smd-id="s111">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Magnets and Fields</em><br /><br />Law of Biot and Savart, Solenoids, Hybrid<br /><br />Dipoles, Quadrupoles, Toroid</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Magnetic Forces and Stresses</em><br /><br />Forces in Magnets<br /><br />Stresses, Structural Design</td>
+<td headers="col3">(<a href="3/forces_stresses.pdf" data-smd-id="s112">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Cryogenics<br /></em><br />Operation at 4.2K, 1.8K, 20-77K, Cryocooler<br /><br />Leads, Experimental Techniques</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Conductors<br /><br /></em>Nb-Ti and A15 Conductors<br /><br />Cable-in-Conduit Conductors (CICC), HTS</td>
+<td headers="col3">(<a href="3/lec6rev_3apr03_1.pdf" data-smd-id="s113">PDF 1 of 3 - 2.1 MB</a>) (<a href="3/lec6rev_3apr03_2.pdf" data-smd-id="s114">PDF 2 of 3 - 1.3 MB</a>) (<a href="3/lec6rev_3apr03_3.pdf" data-smd-id="s115">PDF 3 of 3 - 2.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Magnetic Instabilities<br /><br /></em>Bean's Critical State Model, Magnetization<br /><br />Flux Jumping, Multifilaments, HTS Windings</td>
+<td headers="col3">(<a href="3/lecture_7.pdf" data-smd-id="s116">PDF 1 - 1.5 MB</a>) (<a href="3/master.pdf" data-smd-id="s117">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Stability<br /><br /></em>Cryostability, Dynamic Stability<br /><br />The MPZ Concept, CICC</td>
+<td headers="col3">(<a href="3/lec8rev_24apr03.pdf" data-smd-id="s118">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>AC and Other Disturbances<br /><br /></em>AC Losses<br /><br />Splice and Mechanical Losses</td>
+<td headers="col3">(<a href="3/lec9_jvm_spr_03.pdf" data-smd-id="s119">PDF - 2.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Protection and HTS Magnets</em><br /><br />Protection<br /><br />HTS Magnets</td>
+<td headers="col3">(<a href="3/lec10rev_08may03.pdf" data-smd-id="s120">PDF - 2.4 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
