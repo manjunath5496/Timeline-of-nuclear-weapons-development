@@ -11,7 +11,7 @@
 <li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
-<li><a href="#course13">Strategy and Information</a></li>
+<li><a href="#course13">Neutron Interactions and Applications</a></li>
 <li><a href="#course14">Industrial Organization and Public Policy</a></li>
 <li><a href="#course15">Government Regulation of Industry</a></li>
 <li><a href="#course16">Economics and E-Commerce</a></li>
@@ -1395,8 +1395,75 @@
 </tbody>
 </table>
 </br>
+<h2 id="course13">Neutron Interactions and Applications</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LEC&nbsp;SLIDES&nbsp;/&nbsp;REFERENCES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Neutron Fundamentals / Microscopic Interactions</td>
+<td>(<a href="MIT22_106S10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Macroscopic Interactions</td>
+<td>(<a href="MIT22_106S10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nuclear Data</td>
+<td>(<a href="MIT22_106S10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>R-Matrix Theory</td>
+<td>
+<p>(<a href="MIT22_106S10_lec04a.pdf">PDF</a>)</p>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT22_106S10_lec04b.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Neutron Thermalization</td>
+<td>(<a href="MIT22_106S10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Scattering Laws / SANS</td>
+<td>
+<p>(<a href="MIT22_106S10_lec06a.pdf">PDF</a>)</p>
+<p><span class="nobr">(<a href="MIT22_106S10_lec06b.pdf">PDF - 1.7MB</a>)</span></p>
+<p><span class="nobr">(<a href="MIT22_106S10_lec06c.pdf">PDF - 1.2MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Neutron Detection</td>
+<td>(<a href="MIT22_106S10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review of Probability and Statistics, Introduction to Monte Carlo</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="la-ur-05-4983.pdf">PDF - 12.8MB</a>)</span><br /><br /></td>
+</tr>
+<tr class="row">
+<td>Collision Physics and Sampling</td>
+<td>&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="la-ur-05-4983.pdf">PDF - 12.8MB</a>)</span><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td>Tallying and Uncertainties</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="la-ur-05-4983.pdf">PDF - 12.8MB</a>)</span><br /><br /></td>
+</tr>
+<tr class="row">
+<td>Variance Reduction Techniques</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="la-ur-05-4983.pdf">PDF - 12.8MB</a>)</span><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td>Criticality Safety / Monte Carlo Criticality</td>
+<td>
+<p>&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="la-ur-05-4983.pdf">PDF - 12.8MB</a>)</span><br /><br /></p>
+<p>&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="la-ur-05-4983.pdf">PDF - 12.8MB</a>)</span><br /><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
