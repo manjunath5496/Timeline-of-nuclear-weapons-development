@@ -3,7 +3,7 @@
 <li><a href="#course2">Seminar: Fusion and Plasma Physics</a></li>
 <li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
-<li><a href="#course5">Intermediate Macroeconomics</a></li>
+<li><a href="#course5">Neutron Science and Reactor Physics</a></li>
 <li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
 <li><a href="#course7">Financial Crises</a></li>
 <li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
@@ -431,3 +431,74 @@
 </tbody>
 </table>
 </br>
+<h2 id="course5">Neutron Science and Reactor Physics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES/NOTES/REFERENCES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Reactor Fundamentals / Nomenclature / Nuclear Reactions / Nuclear Stability</td>
+<td>
+<p>Chapter 1 [EEL]</p>
+<p>(<a href="MIT22_05F09_lec01.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Radioactive Decay / Cross-Sections</td>
+<td>
+<p>Chapters 2 and 3 [EEL]</p>
+<p>(<a href="MIT22_05F09_lec02-03.pdf">PDF</a>) (cont.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Power Reactors I (LWRs / Neutron Life Cycle)</td>
+<td>
+<p>Chapter 4 [EEL]</p>
+<p>(<a href="MIT22_05F09_lec04.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Transport Equation</td>
+<td>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Criticality / Flux / Current / BCs</td>
+<td>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Kinetics Approximation</td>
+<td>
+<p>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></p>
+<p>Chapter 5 [EEL]</p>
+<p>(<a href="MIT22_05F09_lec05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Diffusion &ndash; Two Groups</td>
+<td>Notes&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="20041802.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Energy Transport</td>
+<td>
+<p>Chapter 8 [EEL]</p>
+<p>(<a href="MIT22_05F09_lec08-09.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Reactivity Feedback / Transients</td>
+<td>
+<p>Chapter 9 [EEL]</p>
+<p>(<a href="MIT22_05F09_lec08-09.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
