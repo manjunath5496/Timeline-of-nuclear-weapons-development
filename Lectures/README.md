@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Introduction to Nuclear Engineering and Ionizing Radiation</a></li>
 <li><a href="#course2">Seminar: Fusion and Plasma Physics</a></li>
-<li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
+<li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
 <li><a href="#course5">Intermediate Macroeconomics</a></li>
 <li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
@@ -238,4 +238,149 @@
 </table>
 
 </br>
+
+<h2 id="course3">Introduction to Applied Nuclear Physics</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch1.pdf"><strong>Chapter 1. Introduction to Nuclear Physics (PDF)</strong></a></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to the class</td>
+<td><a href="MIT22_02S12_lec01.pdf">Lecture 1 slides (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Semi-empirical mass formula</p>
+<p>Intro to radioactive decay</p>
+</td>
+<td><a href="MIT22_02S12_lec02.pdf">Lecture 2 slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch2.pdf"><strong>Chapter 2. Introduction to Quantum Mechanics (PDF)</strong></a></td>
+</tr>
+<tr class="row">
+<td>Axioms and eigenstates</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Measurement and probability</td>
+<td><a href="MIT22_02S12_lec04.pdf">Lecture 4 slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Operators, Schr&ouml;dinger equation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Commutator &amp; Uncertainty Principle</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch3.pdf"><strong>Chapter 3. Radioactive Decay, Part I (PDF - 1.0MB)</strong></a></td>
+</tr>
+<tr class="alt-row">
+<td>Tunneling &amp; scattering</td>
+<td><a href="MIT22_02S12_lec07.pdf">Lecture 7 slides (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td>Alpha decay</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch4.pdf"><strong>Chapter 4. Energy Levels (PDF)</strong></a></td>
+</tr>
+<tr class="row">
+<td>Bound systems and energy levels</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Angular momentum</td>
+<td><a href="MIT22_02S12_lec10.pdf">Lecture 10 slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Angular momentum: sum rules</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Hydrogen atom</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Identical particles</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch5.pdf"><strong>Chapter 5. Nuclear Structure (PDF)</strong></a></td>
+</tr>
+<tr class="row">
+<td>The deuteron</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Nuclear force &amp; shell structure</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Spin-orbit coupling</td>
+<td><a href="MIT22_02S12_lec16.pdf">Lecture 16 slides (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch6.pdf"><strong>Chapter 6. Time Evolution in Quantum Mechanics (PDF)</strong></a></td>
+</tr>
+<tr class="row">
+<td>Time evolution</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Ehrenfest theorem &ndash; Fermi's Golden Rule</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch7.pdf"><strong>Chapter 7. Radioactive Decay, Part II (PDF)</strong></a></td>
+</tr>
+<tr class="alt-row">
+<td>Gamma decay</td>
+<td><a href="MIT22_02S12_lec19.pdf">Lecture 19 slides (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td>Beta decay</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><a href="MIT22_02S12_lec_ch8.pdf"><strong>Chapter 8. Applications of Nuclear Science (PDF - 1.4MB)</strong></a></td>
+</tr>
+<tr class="row">
+<td>Cross section, charged particle scattering</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Rutherford scattering</td>
+<td><a href="MIT22_02S12_lec22.pdf">Lecture 22 slides (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="row">
+<td>Electromagnetic field interaction with matter</td>
+<td><a href="MIT22_02S12_lec23.pdf">Lecture 23 slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Fusion</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Fission</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 
