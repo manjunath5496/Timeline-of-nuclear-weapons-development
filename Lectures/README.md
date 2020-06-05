@@ -4,7 +4,7 @@
 <li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
-<li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
+<li><a href="#course6">Principles of Medical Imaging</a></li>
 <li><a href="#course7">Financial Crises</a></li>
 <li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
 <li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
@@ -486,6 +486,86 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course6">Principles of Medical Imaging</h2>
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>TOPICS</th>
+<th>FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>A Brief Introduction to Tomographic Imaging</td>
+<td><span class="nobr"><a href="lecture1.pdf">(PDF - 1.0MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>Linear Imaging Systems</td>
+<td><span class="nobr"><a href="lecture2.pdf">(PDF - 1.3MB)</a></span></td>
+</tr>
+<tr class="row">
+<td>Reciprocal Space; Fourier Transforms<br /><br />Supplement A</td>
+<td><span class="nobr"><a href="lecture3.pdf">(PDF - 1.2MB)</a></span><br /><br /><span class="nobr"><a href="lecture3_supplementA.pdf">(PDF - 1.7MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>Convolution and Fourier Convolution</td>
+<td>(<a href="lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sampling</td>
+<td><span class="nobr"><a href="lecture5.pdf">(PDF - 1.0MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>Types of Radiation Interactions</td>
+<td><span class="nobr"><a href="lecture6.pdf">(PDF - 2.0MB)</a></span></td>
+</tr>
+<tr class="row">
+<td>Planar X-ray Imaging</td>
+<td>(<a href="lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Origins of X-Rays</td>
+<td><span class="nobr"><a href="lecture8.pdf">(PDF - 1.5MB)</a></span></td>
+</tr>
+<tr class="row">
+<td>Equations</td>
+<td>(<a href="lecture9.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>ASSIGNMENTS</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="Homework1.pdf">PDF</a>)</td>
+<td>(<a href="Homework1Solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="Homework2.pdf">PDF</a>)</td>
+<td>(<a href="Homework2Solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="Homework3.pdf">PDF</a>)</td>
+<td>(<a href="Homework3Solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="Homework4.pdf">PDF</a>)</td>
+<td>(<a href="Homework4Solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="Homework5.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Exam 1 (<a href="exam1.pdf">PDF</a>)<br />Exam 1 Solution (<a href="exam1solution.pdf">PDF</a>)</p>
+</br>
 
 
